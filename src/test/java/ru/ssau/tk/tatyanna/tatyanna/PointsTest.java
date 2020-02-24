@@ -1,6 +1,7 @@
 package ru.ssau.tk.tatyanna.tatyanna;
 
 import org.junit.jupiter.api.Test;
+
 import ru.ssau.tk.tatyanna.tatyanna.Points;
 import ru.ssau.tk.tatyanna.tatyanna.Point;
 import static org.junit.jupiter.api.Assertions.*;
